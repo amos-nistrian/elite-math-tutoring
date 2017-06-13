@@ -1,0 +1,58 @@
+.dark-paragraph {
+	color: white !important;
+	font-size: 20px !important;
+	font-weight: 600 !important;
+}
+
+header {
+	color: white !important;
+}
+
+.navbar-brand.page-scroll {
+	color: #333 !important;
+}
+
+.page-scroll {
+	color: #333 !important;
+}
+
+.navbar-default.affix {
+	background-color: white !important;
+}
+
+.navbar.navbar-default.navbar-fixed-top.affix-top {
+	background-color: white !important;
+	opacity: 0.8 !important;
+}
+
+.btn.btn-primary.btn-xl.page-scroll {
+	color: white !important;
+}
+
+.page-scroll.btn.btn-default.btn-xl.sr-button {
+	color: #F05F40 !important;
+}
+
+#homeHeading {
+	font-size: 60px !important;
+}
+
+#logo {
+  background: url(logosmall.png) no-repeat 23px;
+  margin-top: 10px;
+  width: 375px;
+  height: 20px;
+  display: inline-block;
+}
+
+.custom-section-pricing {
+	background-color: #eee !important;
+}
+
+.custom-section-availability {
+	background-color: #f7b54d !important;
+}
+
+
+
+
